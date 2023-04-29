@@ -18,9 +18,13 @@
 
 ## ➤ Description: 
 
-A simple food analyzer giving you information of the nutrients in the food image chosen, then you get a choice of similar foods with recipes so you can make your own creation
+A simple food analyzer giving you information of the nutrients of the food image chosen, then you get a choice of similar foods with recipes so you can make your own creation from the recipe website.
 
+The spoonacular food API offers a food-specific model specifically trained on our test dataset.
 The final dataset is 50 classes with a total of 15,742 images (4.4 GB in size).
+
+## ➤ Summary:
+If you want to reliably tag food-related images, you may want to use a service that comes with a pre-trained food model such as Clarifai, Watson, or spoonacular. If you have the time, knowledge, and resources, you can of course create your own dataset and create a custom model. Most online services allow for custom training models, but dataset creation is definitely not to be underestimated.
 
 
 
@@ -37,7 +41,7 @@ the following data is provided:
  - Carbs
 
 ### Bonus
-Then there is a selection of 9 similar foods for you to create each with a link to the recipe 
+Then there is a selection of 9 similar foods for you to create each with a link to the recipe website 
                                
                                                           
 

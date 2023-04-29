@@ -73,7 +73,13 @@ To make some money of course 🤑
 
 [Gif Button](https://user-images.githubusercontent.com/125808990/234833153-ee6afbc2-ce9c-4be9-854c-4257aac013e4.png)
 
+[Dataset Images](https://user-images.githubusercontent.com/125808990/235284268-7bae440f-866d-4fde-9b3f-fc1eaefec74c.png)
+
 [Website Recipe](https://user-images.githubusercontent.com/125808990/234833353-b8145ac5-093d-4e99-892e-c8720d7da1c6.png)
+
+[Image Classification Chart](https://user-images.githubusercontent.com/125808990/235284299-9ae2b010-2c2b-4b16-9ea8-3a5bf0b951b8.png)
+
+[Top 50 Classes](https://user-images.githubusercontent.com/125808990/235284348-1fac5cf9-3259-4d90-9c76-978841ae6879.png)
 
 
 

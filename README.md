@@ -8,7 +8,7 @@
 
 [App]
 
-![App](https://user-images.githubusercontent.com/125808990/234825746-661bceeb-3eb6-4f24-8706-c8d611687773.png)
+![Screenshot 2023-04-29 at 05 36 50](https://user-images.githubusercontent.com/125808990/235283666-64ad1aff-7eb5-4dd9-aa69-6a56c6ec6f2f.png)
 
 
 [Coding Time](https://user-images.githubusercontent.com/125808990/234698140-c33eed71-d6f3-448e-a372-64eef52a620c.png)

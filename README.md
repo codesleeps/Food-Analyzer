@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
 
-[App]
+[App](https://codesleeps.github.io/Food-Analyzer/) 📲
 
 ![Screenshot 2023-04-29 at 05 36 50](https://user-images.githubusercontent.com/125808990/235283666-64ad1aff-7eb5-4dd9-aa69-6a56c6ec6f2f.png)
 
@@ -16,9 +16,9 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description-)
 
-## ➤ Description: 
+## ➤ Description: 👀
 
-A simple food analyzer giving you information of the nutrients of the food image chosen, then you get a choice of similar foods with recipes so you can make your own creation from the recipe website.
+A simple food analyzer giving you information of the nutrients of the food image chosen, then you get a choice of similar foods with recipes so you can make your own creation from the recipe website. App is mobile responsive tested on different screen sizes.
 
 The spoonacular food API offers a food-specific model specifically trained on our test dataset.
 The final dataset is 50 classes with a total of 15,742 images (4.4 GB in size).
@@ -30,7 +30,7 @@ If you want to reliably tag food-related images, you may want to use a service t
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#operation-)
 
-## ➤ Operation: 
+## ➤ Operation: 🪄
 
 After page loads simply drag n drop a food image into the "grey-dotted area" and wait for the magic 🪄...
 the following data is provided:
@@ -53,7 +53,7 @@ To make some money of course 🤑
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#screenshots)
 
-## ➤ Screenshots
+## ➤ Screenshots 📸
 
 [No User Input](https://user-images.githubusercontent.com/125808990/233476581-2fd1476a-492d-4a55-b869-158e9eb88f32.png)
 
@@ -85,7 +85,7 @@ To make some money of course 🤑
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#stack)
 
-## ➤ Stack
+## ➤ Stack 💻
 
 - [x] AnimeJS
 - [x] Vue.JS
@@ -109,7 +109,7 @@ To make some money of course 🤑
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## ➤ Additional resources
+## ➤ Additional resources 🎯
 
 - [Vue.js](https://vuejs.org/)
 - [Anime.js](https://animejs.com/)

@@ -1,14 +1,44 @@
+# Hi, I'm Code Sleep! 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#image-analyzer-)
+I'm a front end developer...
 
-# ➤ Food Image Analyzer 🌠
+
+![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
+
+
+👩‍💻 I'm currently working on...React 
+
+🧠 I'm currently learning..._Python_ _MongoDB_ _PHP_
+
+👯‍♀️ I'm looking to collaborate on...any A.I. Projects
+
+🤔 I'm looking for help with...github actions
+
+💬 Ask me about...Travel, manufacturing or design
+
+📫 How to reach me...links below
+
+😄 Pronouns...
+
+⚡️ Fun fact...keep smiling 🤖
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 
-[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#image-analyzer-)
 
+# ➤ Food Image Analyzer 🌠
 
 [App](https://codesleeps.github.io/Food-Analyzer/) 📲
 

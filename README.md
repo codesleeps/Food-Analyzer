@@ -84,6 +84,15 @@ Then there is a selection of 9 similar foods for you to create each with a link 
 ## ➤ Purpose:
 To make some money of course 🤑
 
+## Tests - Lighthouse Scores
+
+> Desktop Score
+> 
+> ![desktopCodeSnippets](https://user-images.githubusercontent.com/125808990/224535765-40b36226-02c7-43c9-9ff5-7239925b8b1d.png)
+
+> Mobile Score
+> 
+> ![mobileCodeSnippets](https://user-images.githubusercontent.com/125808990/224535785-14e39345-da99-4d14-99f0-d565bfd57cc5.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#screenshots)
 

@@ -84,7 +84,7 @@ Then there is a selection of 9 similar foods for you to create each with a link 
 ## ➤ Purpose:
 To make some money of course 🤑
 
-## Tests - Lighthouse Scores
+## ➤ Tests - Lighthouse Scores
 
 > Desktop Score
 > 

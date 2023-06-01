@@ -32,7 +32,7 @@ I'm a front end developer...
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
-![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Food-Analyzer/count.svg)
 
 
 
